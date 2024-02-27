@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "HXOkem0mt46+DFe7h+paDvYiR4FLQUNS840d4HdUzHmNF7eDIgqBYnhg5Ma6o+QY9agQ2CMoNKo4Tp5n6qT+Ow==",
+  "dgSpecHash": "wGYvsR5UcLZz9DvyYzZ2w/WsOndpEn2NkHECV5mV0tEYLCDcTCQKzPKTlPH0wXyn3uUoPgVl3X2xX8YCTxMBEQ==",
   "success": true,
-  "projectFilePath": "D:\\Projects\\EZFarmer\\AnimalMetricsLib\\AnimalMetricsLib.csproj",
+  "projectFilePath": "D:\\Projects\\EzFarmer\\AnimalMetricsLib\\AnimalMetricsLib.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Trent\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Trent\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
