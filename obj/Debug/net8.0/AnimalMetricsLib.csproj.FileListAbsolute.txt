@@ -1,0 +1,11 @@
+D:\Projects\EZFarmer\AnimalMetricsLib\bin\Debug\net8.0\AnimalMetricsLib.deps.json
+D:\Projects\EZFarmer\AnimalMetricsLib\bin\Debug\net8.0\AnimalMetricsLib.dll
+D:\Projects\EZFarmer\AnimalMetricsLib\bin\Debug\net8.0\AnimalMetricsLib.pdb
+D:\Projects\EZFarmer\AnimalMetricsLib\obj\Debug\net8.0\AnimalMetricsLib.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\EZFarmer\AnimalMetricsLib\obj\Debug\net8.0\AnimalMetricsLib.AssemblyInfoInputs.cache
+D:\Projects\EZFarmer\AnimalMetricsLib\obj\Debug\net8.0\AnimalMetricsLib.AssemblyInfo.cs
+D:\Projects\EZFarmer\AnimalMetricsLib\obj\Debug\net8.0\AnimalMetricsLib.csproj.CoreCompileInputs.cache
+D:\Projects\EZFarmer\AnimalMetricsLib\obj\Debug\net8.0\AnimalMetricsLib.dll
+D:\Projects\EZFarmer\AnimalMetricsLib\obj\Debug\net8.0\refint\AnimalMetricsLib.dll
+D:\Projects\EZFarmer\AnimalMetricsLib\obj\Debug\net8.0\AnimalMetricsLib.pdb
+D:\Projects\EZFarmer\AnimalMetricsLib\obj\Debug\net8.0\ref\AnimalMetricsLib.dll
