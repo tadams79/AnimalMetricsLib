@@ -16,4 +16,13 @@ public class AdjustmentFactors
     private double EnergyContentAdjustmentFactor => ActualEnergyContent / RequiredEnergyContent;
     private double VitaminMineralIndexAdjustmentFactor => ActualVitaminMineralIndex / RequiredVitaminMineralIndex;
     public double OverallAdjustmentFactor => (ProteinContentAdjustmentFactor + EnergyContentAdjustmentFactor + VitaminMineralIndexAdjustmentFactor) / 3;
+    public static implicit operator AdjustmentFactors(NutritionInfo nutritionInfo)
+        => new AdjustmentFactors() {
+            ActualProteinContent = nutritionInfo.ActualProteinContent,
+            RequiredProteinContent = nutritionInfo.RequiredProteinContent,
+            ActualEnergyContent = nutritionInfo.ActualEnergyContent,
+            RequiredEnergyContent = nutritionInfo.RequiredEnergyContent,
+            ActualVitaminMineralIndex = nutritionInfo.ActualVitaminMineralIndex,
+            RequiredVitaminMineralIndex = nutritionInfo.RequiredVitaminMineralIndex
+        };
 }

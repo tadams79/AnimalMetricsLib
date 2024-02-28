@@ -8,4 +8,6 @@ namespace AnimalMetricsLib.Interfaces;
 public interface IAdjustedGrowthRateCalculator
 {
     double CalculateAdjustedGrowthRate(Animal animal, NutritionInfo nutritionInfo);
+    double CalculateAdjustedGrowthRate(List<GrowthMeasurement> measurements, 
+        NutritionInfo nutritionInfo);
 }
